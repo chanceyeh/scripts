@@ -1,0 +1,2 @@
+# scripts
+function_validated
